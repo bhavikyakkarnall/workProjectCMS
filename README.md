@@ -1,0 +1,2 @@
+# workProjectCMS
+Stock Management System
